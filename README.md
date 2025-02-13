@@ -35,7 +35,20 @@ Human manager maintains a high level roadmap and is otherwise freed to contribut
 
 ## 2. Current Status
 
-1.1.1. is commodity software that can be spinned up either via a propriety API (e.g. ChatGPT or Claude) or locally (e.g. Deepseek). 
+1.1.1. is commodity software that can be spinned up either via a propriety API (e.g. ChatGPT or Claude) or locally (e.g. Deepseek).
+
 1.1.2. is 1-2 days of predictable work with GitHub API or a wrapper for it (e.g. pygithub)
+
 1.2.1. is less than a day of work using GitHub Actions
+
 1.3.1. is based on the idea of having several `Agent-Devs` work in tandem on a single project and is a by-product of having one `Agent-Dev` operational with perhas a week's worth of somewhat trivial additional work
+
+## 3. Key Features
+
+- Fully operational GitHub-based coder
+- Has continuous awareness of the entire codebase
+- Has knowledge of all communications
+
+## 4. Motivation
+
+If there were even the smallest change of this actually working, and even if it did take many fold the estimated time, why would one want to build anything else before this? After all, it promises to radically change how one builds everything after it.
