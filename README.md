@@ -31,7 +31,7 @@ This project has three phases.
 
 1.3.1) Several `Agent-Devs` are able to work collaboratively to fulfil high-level roadmap requests, working through product requirements, engineering specification, building, quality assurance, and running it on the cloud.
 
-**Human manager maintains a high level roadmap and is otherwise freed to contribute to the project exactly as he sees fit. **
+**Human manager maintains a high level roadmap and is otherwise freed to contribute to the project exactly as he sees fit.**
 
 ## 2. Current Status
 
